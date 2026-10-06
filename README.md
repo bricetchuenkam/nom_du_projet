@@ -1,2 +1,2 @@
 # nom_du_projet
-projet genie logiciel
+projet genie logiciel uqo
